@@ -1,5 +1,7 @@
 # RouteLazyLoad
 
+### Orginal Post [Angular 8 – Routes lazy loading](https://buymeadrinks.com/pandian/angular-8-routes-lazy-loading/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
 ## Development server
